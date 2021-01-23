@@ -85,7 +85,7 @@
 
    
 
-5. 修改 `README.md` 选第一个就好，不要选第二个Create a new branch***（为什么教着做都不听话，泪目），测试一次
+5. 修改 `README.md` 选第一个就好，不要选第二个Create a new branch***（为什么教着做都不听话，泪目），测试一次 
 
    
 
